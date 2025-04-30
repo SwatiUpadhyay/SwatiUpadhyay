@@ -1,5 +1,5 @@
 <h1 class="glow">✨ Swati Upadhyay ✨</h1>
-<h3 align="center">ML Sorceress | Frontend Fairy | Creative Coder 🦋</h3>
+<h3 align="center">ML Sorceress | Frontend Fairy | Creative Coder </h3>
 
 ---
 
@@ -34,7 +34,6 @@
 
 ### 🧠 Projects I'm Proud Of
 
-- 🧠 **MBTI Text Classifier** – Predicts your personality type and matches you to your anime twin using ML magic.
 - 🔮 **Horoscope Predictor** – SVM + LSTM + vibes-based text generation for your zodiac fate.
 - 🔗 **Baby Blockchain** – An animated, glowing, interactive blockchain ledger with fake transaction fun.
 - 🌐 **Lung Cancer Prediction System** – Full-screen, dynamic web app built with HTML/CSS/JS for healthcare impact.
