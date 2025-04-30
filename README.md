@@ -1,53 +1,119 @@
-# 👋 Hi, I'm Swati Upadhyay
+<!-- README.md for SwatiUpadhyay -->
 
-I'm an aspiring developer and machine learning enthusiast, passionate about turning ideas into impactful, aesthetic, and intelligent software. I enjoy building creative full-stack applications with a strong focus on user experience, accessibility, and clean code.
+<!-- Firefly background effect -->
+<style>
+  body {
+    background: black;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    overflow-x: hidden;
+  }
 
----
+  .firefly {
+    position: absolute;
+    width: 2px;
+    height: 2px;
+    background: #fffaa3;
+    border-radius: 50%;
+    animation: fly 10s infinite ease-in-out;
+  }
 
-## 🔭 Current Projects
+  @keyframes fly {
+    0% { transform: translate(0, 0); }
+    50% { transform: translate(100vw, 100vh); }
+    100% { transform: translate(0, 0); }
+  }
 
-- 🔮 **Horoscope Predictor** – A zodiac-based classifier trained on horoscope datasets using SVM, Random Forest, and LSTM.
-- 🔗 **Baby Blockchain** – A fun, educational blockchain implementation with an interactive UI and animated features.
-- 🌐 **Lung Cancer Prediction System** – Collaborating on a clinical web portal with a dynamic frontend and JS-powered components.
+  h1.glow {
+    font-size: 3.5rem;
+    color: #ffffff;
+    text-align: center;
+    animation: glow 2s ease-in-out infinite alternate;
+    margin-top: 40px;
+  }
 
----
+  @keyframes glow {
+    from { text-shadow: 0 0 10px #ffd6fa, 0 0 20px #ffa3ff, 0 0 30px #ff6ec7; }
+    to { text-shadow: 0 0 20px #ffe3ff, 0 0 30px #ffa3ff, 0 0 40px #ff33cc; }
+  }
+</style>
 
-## 🌱 Currently Learning
-
-- BERT & Transformer-based NLP
-- Advanced frontend animations and UI design
-- Full-stack integration for ML web apps
-
----
-
-## 🤝 Looking to Collaborate On
-
-- Machine learning + NLP projects
-- Creative frontend development (React, Tailwind)
-- EdTech or health-tech apps
-
----
-
-## 💬 Ask Me About
-
-- Python & ML pipelines
-- Deploying Flask apps
-- Building interactive, user-friendly frontends
-- Git & GitHub workflows
-
----
-
-## 📫 How to Reach Me
-
-- 🔗 [LinkedIn](https://www.linkedin.com/in/swati-upadhyay-b042241a4/)  
-- 📧 [uswati1123@gmail.com](mailto:uswati1123@gmail.com)
-
----
-
-## ⚡ Fun Fact
-
-When I’m not coding, I love diving into personality theory, moodboards, and visual storytelling. I believe good design and clear logic go hand-in-hand.
+<h1 class="glow">✨ Swati Upadhyay ✨</h1>
+<h3 align="center">ML Sorceress | Frontend Fairy | Creative Coder 🦋</h3>
 
 ---
 
-![Swati's GitHub stats](https://github-readme-stats.vercel.app/api?username=SwatiUpadhyay&show_icons=true&theme=default)
+### 📫 Connect With Me  
+<p align="center">
+  <a href="https://www.linkedin.com/in/swati-upadhyay-b042241a4/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
+  </a>
+  <a href="mailto:uswati1123@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge" />
+  </a>
+</p>
+
+---
+
+### 💻 Tech Stack  
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" />
+</p>
+
+---
+
+### 🧠 Projects I'm Proud Of
+
+- 🧠 **MBTI Text Classifier** – Predicts your personality type and matches you to your anime twin using ML magic.
+- 🔮 **Horoscope Predictor** – SVM + LSTM + vibes-based text generation for your zodiac fate.
+- 🔗 **Baby Blockchain** – An animated, glowing, interactive blockchain ledger with fake transaction fun.
+- 🌐 **Lung Cancer Prediction System** – Full-screen, dynamic web app built with HTML/CSS/JS for healthcare impact.
+
+---
+
+### 📈 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SwatiUpadhyay&show_icons=true&theme=tokyonight" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SwatiUpadhyay&theme=tokyonight" width="45%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SwatiUpadhyay&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### 🌱 Currently Learning
+- 🔥 Transformers and BERT models  
+- 🎨 Frontend animations and motion design  
+- 🌈 Full-stack ML deployment  
+
+---
+
+### 🌈 Fun Fact
+I'm powered by caffeine, curiosity, and chaotic code sessions at 3 AM. 🌙
+
+---
+
+<!-- Fireflies! -->
+<script>
+  const numFireflies = 40;
+  for (let i = 0; i < numFireflies; i++) {
+    const firefly = document.createElement('div');
+    firefly.classList.add('firefly');
+    firefly.style.top = `${Math.random() * 100}vh`;
+    firefly.style.left = `${Math.random() * 100}vw`;
+    document.body.appendChild(firefly);
+  }
+</script>
+
