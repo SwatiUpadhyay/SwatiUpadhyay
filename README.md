@@ -1,43 +1,3 @@
-<!-- README.md for SwatiUpadhyay -->
-
-<!-- Firefly background effect -->
-<style>
-  body {
-    background: black;
-    color: white;
-    font-family: 'Courier New', Courier, monospace;
-    overflow-x: hidden;
-  }
-
-  .firefly {
-    position: absolute;
-    width: 2px;
-    height: 2px;
-    background: #fffaa3;
-    border-radius: 50%;
-    animation: fly 10s infinite ease-in-out;
-  }
-
-  @keyframes fly {
-    0% { transform: translate(0, 0); }
-    50% { transform: translate(100vw, 100vh); }
-    100% { transform: translate(0, 0); }
-  }
-
-  h1.glow {
-    font-size: 3.5rem;
-    color: #ffffff;
-    text-align: center;
-    animation: glow 2s ease-in-out infinite alternate;
-    margin-top: 40px;
-  }
-
-  @keyframes glow {
-    from { text-shadow: 0 0 10px #ffd6fa, 0 0 20px #ffa3ff, 0 0 30px #ff6ec7; }
-    to { text-shadow: 0 0 20px #ffe3ff, 0 0 30px #ffa3ff, 0 0 40px #ff33cc; }
-  }
-</style>
-
 <h1 class="glow">✨ Swati Upadhyay ✨</h1>
 <h3 align="center">ML Sorceress | Frontend Fairy | Creative Coder 🦋</h3>
 
@@ -104,16 +64,4 @@
 I'm powered by caffeine, curiosity, and chaotic code sessions at 3 AM. 🌙
 
 ---
-
-<!-- Fireflies! -->
-<script>
-  const numFireflies = 40;
-  for (let i = 0; i < numFireflies; i++) {
-    const firefly = document.createElement('div');
-    firefly.classList.add('firefly');
-    firefly.style.top = `${Math.random() * 100}vh`;
-    firefly.style.left = `${Math.random() * 100}vw`;
-    document.body.appendChild(firefly);
-  }
-</script>
 
