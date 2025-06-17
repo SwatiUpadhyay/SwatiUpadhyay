@@ -1,3 +1,12 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+I'm+Swati+Upadhyay!;Creative+ML+Engineer+%26+Frontend+Developer;Building+AI+with+Purpose&center=true&width=500&height=45&color=F77737&size=22" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SwatiUpadhyay&label=Visitors&color=blueviolet" />
+</p>
+
+
 <h1 align="center">✨ Swati Upadhyay ✨</h1>
 <h3 align="center">ML Sorceress 🧠 | Frontend Fairy 🧚‍♀️ | Creative Coder 💡</h3>
 
