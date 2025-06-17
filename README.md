@@ -86,6 +86,30 @@ Currently interning at Trecent Systems, I bring together AI/ML, full-stack web d
 
 ---
 
+
+---
+
+### 📈 GitHub Activity Overview
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SwatiUpadhyay&bg_color=0d1117&color=5bcdec&line=5bcdec&point=ffffff&area=true&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SwatiUpadhyay&theme=algolia&no-bg=true&no-frame=true&margin-w=10&row=2&column=3" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SwatiUpadhyay&show_icons=true&theme=tokyonight&rank_icon=github" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SwatiUpadhyay&layout=compact&theme=tokyonight" width="45%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=SwatiUpadhyay&theme=tokyonight" width="60%" />
+</p>
+
+---
+
 ### 📈 GitHub Insights
 
 <p align="center">
