@@ -100,10 +100,6 @@ Currently interning at Trecent Systems, I bring together AI/ML, full-stack web d
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SwatiUpadhyay&layout=compact&theme=tokyonight" width="45%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=SwatiUpadhyay&theme=tokyonight" width="60%" />
-</p>
-
 ---
 
 ### 🌱 Currently Exploring
