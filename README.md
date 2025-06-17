@@ -6,7 +6,6 @@
   <img src="https://komarev.com/ghpvc/?username=SwatiUpadhyay&label=Visitors&color=blueviolet" />
 </p>
 
-
 <h1 align="center">✨ Swati Upadhyay ✨</h1>
 <h3 align="center">ML Sorceress 🧠 | Frontend Fairy 🧚‍♀️ | Creative Coder 💡</h3>
 
@@ -83,23 +82,6 @@ Currently interning at Trecent Systems, I bring together AI/ML, full-stack web d
 
 - 🧾 **Resume to WebCard Generator**  
   Converts form data into sleek portfolio cards (Next.js + TailwindCSS). Includes demo profiles, mobile support, and routing.
-
----
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=SwatiUpadhyay&theme=tokyonight" width="60%"/>
-</p>
-
----
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SwatiUpadhyay&show_icons=true&theme=tokyonight&rank_icon=github" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SwatiUpadhyay&layout=compact&theme=tokyonight" width="48%" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SwatiUpadhyay&theme=algolia&no-bg=true&no-frame=true&margin-w=10&row=2&column=3" />
-</p>
 
 ---
 
