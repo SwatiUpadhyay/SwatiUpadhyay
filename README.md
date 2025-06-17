@@ -12,7 +12,13 @@
 <p align="center">
   <i>Turning caffeine, curiosity, and chaos into clean, working code.</i>
 </p>
-
+---
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20to%20Internships-yes-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-🔥_Focus-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Frontend%20Dev-React/Tailwind-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Loves-GPT_Models-purple?style=for-the-badge" />
+</p>
 ---
 
 ### 📬 Connect with Me  
@@ -122,6 +128,15 @@ Currently interning at Trecent Systems, I bring together AI/ML, full-stack web d
 - ✅ HackerRank: Python (Basic)  
 - ✅ Udemy: Python, AI for Analytics
 
+---
+
+<pre>
+👩‍💻 $ whoami
+🧠 Swati Upadhyay
+💬 "Always shipping something beautiful + intelligent."
+</pre>
+
+> *“Great code is poetry that runs.”*
 ---
 
 ### 🌟 Fun Fact
