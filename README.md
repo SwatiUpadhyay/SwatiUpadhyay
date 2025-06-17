@@ -89,6 +89,8 @@ Currently interning at Trecent Systems, I bring together AI/ML, full-stack web d
 
 ---
 
+---
+
 ### 📈 GitHub Activity Overview
 
 <p align="center">
@@ -96,7 +98,7 @@ Currently interning at Trecent Systems, I bring together AI/ML, full-stack web d
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SwatiUpadhyay&theme=algolia&no-bg=true&no-frame=true&margin-w=10&row=2&column=3" />
+  <img src="https://github-profile-trophy.vercel.app/?username=SwatiUpadhyay&theme=algolia&no-frame=true&no-bg=true&margin-w=15" />
 </p>
 
 <p align="center">
@@ -106,19 +108,6 @@ Currently interning at Trecent Systems, I bring together AI/ML, full-stack web d
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=SwatiUpadhyay&theme=tokyonight" width="60%" />
-</p>
-
----
-
-### 📈 GitHub Insights
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SwatiUpadhyay&show_icons=true&theme=tokyonight" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SwatiUpadhyay&theme=tokyonight" width="45%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SwatiUpadhyay&layout=compact&theme=tokyonight" />
 </p>
 
 ---
